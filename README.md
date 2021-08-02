@@ -1,3 +1,3 @@
-<h3 align="center">⬜⬛ Chess ⬛⬜</h3>
-#
+<h1 align="center">⬜⬛ Chess ⬛⬜</h1>
+
 Play Chess in java!
