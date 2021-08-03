@@ -2,12 +2,14 @@
 /.idea/
 /out/
 *.iml
+
 #Netbeans
 /nbproject/
 *.MF
+build.xml
+
 # Compiled class file
 *.class
-build.xml
 # Log file
 *.log
 
