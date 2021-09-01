@@ -1,4 +1,4 @@
-<h1 align="center">Play Chess in java!</h1>
+<h1 align="center">Play Chess in java! [IN PROGRESS]</h1>
 
 <p align="center">
   ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛<br>
